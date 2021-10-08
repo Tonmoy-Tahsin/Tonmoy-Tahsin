@@ -1,4 +1,4 @@
-Current learing linux & C\n
+Current learing linux & C
 
 Am just a noob
 <!---
